@@ -1,0 +1,30 @@
+/* .todo-container {
+  background-color: rgb(244, 244, 230);
+  /* or any color you want */
+  /* padding: 20px;
+}; */ 
+
+.dummy {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.container {
+  text-align: left;
+}
+
+.kg-button {
+  min-width: 80px;
+
+}
+
+.kg-row {
+  margin: 10px 3px;
+
+}
